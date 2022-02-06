@@ -19,7 +19,7 @@ Then in vscode, open app.component.ts and place a breakpoint on the line with `t
     export class AppComponent {
       title = 'tree13c';
     }
-# Launch/Debug
+# Launch and show that VSCode Debug is not working
 
 To launch and this project and see that debugging is NOT working:
 
