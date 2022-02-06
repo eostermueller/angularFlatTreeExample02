@@ -21,10 +21,10 @@ Then in vscode, open app.component.ts and place a breakpoint on the line with `t
     }
 # Launch/Debug
 
-To launch and debug this project:
+To launch and this project and see that debugging is NOT working:
 
 * In VSCode, launch "ng serve" on the debug menu.
 * the project compiles, 
 * the browser launches 
-* and after a few seconds control returns to vscode with a 'break' on line `title = 'tree13c';`
+* ...and then nothing happens.  Was expecting control to returns to vscode and 'break' on the line with `title = 'tree13c';`
 
